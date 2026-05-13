@@ -1,46 +1,73 @@
-# Hola, soy Edier Robles 👋
+<div align="center">
 
-## 💫 Sobre mí:
+<h1 align="center">Hi, I'm <a href="https://github.com/edier-0">Edier Robles</a> 👋</h1>
 
-Soy un **Desarrollador de Software** en formación con un fuerte enfoque en el desarrollo **backend** y aplicaciones **web**, utilizando tecnologías como **Laravel, PHP, JavaScript y MySQL**. Actualmente, estoy cursando estudios en el SENA, donde he fortalecido mis habilidades técnicas en programación, bases de datos, control de versiones y despliegue de aplicaciones.
+</div>
 
-Cuento con experiencia en el desarrollo de APIs, sistemas administrativos, plataformas web y proyectos académicos centrados en la automatización y gestión empresarial. Además, poseo conocimientos sólidos en **Git, GitHub**, integración de servicios, manejo de ramas, pull requests y flujos de trabajo colaborativos. Me destaco por mi capacidad de aprendizaje rápido, mi enfoque práctico para resolver problemas técnicos y mi facilidad para adaptarme a nuevas tecnologías. También tengo conocimientos de inglés técnico, lo que me permite leer documentación, comprender código y utilizar herramientas de desarrollo de manera efectiva.
+<div align="center">
 
-## 💻 Habilidades Técnicas:
+![Profile views](https://komarev.com/ghpvc/?username=edier-0&color=blue&style=for-the-badge)
 
-| Categoría        | Tecnologías                                   |
-| :--------------- | :-------------------------------------------- |
-| **Backend**      | PHP, Laravel, Node.js, Python, Java, C# (Windows Forms) |
-| **Frontend**     | JavaScript, HTML5, CSS3, Blade                |
-| **Bases de Datos** | MySQL, PostgreSQL                             |
-| **Herramientas & DevOps** | Git, GitHub, CI/CD, Render                  |
-| **Metodologías** | Trabajo colaborativo, control de versiones, resolución de problemas |
+</div>
 
-## 🚀 Proyectos Destacados:
+# 💫 Sobre mí:
 
-### Aplicación de Gestión de Rifas
-Descripción: Aplicación de escritorio diseñada para la administración y control de sorteos, permitiendo la gestión de participantes y números de rifa.
-Tecnologías: C#, Windows Forms, .NET
+<p align="center">
 
-### Sistema de Gestión de Asistencia (SENA)
-Descripción: Proyecto orientado al control de asistencia y gestión académica desarrollado en colaboración con el SENA.
-Tecnologías: Laravel, PHP, JavaScript, MySQL
+Soy un **Desarrollador de Software** apasionado por el desarrollo **backend** y la creación de soluciones web escalables. Mi enfoque principal está en el ecosistema de **PHP con Laravel**, aunque también tengo experiencia sólida en **JavaScript, C# (Windows Forms)** y la gestión de bases de datos relacionales como **MySQL**.
 
-### Delivery Api
-Descripción: Plataforma de entregas con arquitectura desacoplada entre API backend.
-Tecnologías: Laravel API
+Me caracterizo por mi capacidad para aprender nuevas tecnologías rápidamente y mi compromiso con las buenas prácticas de desarrollo. Actualmente, continúo fortaleciendo mis habilidades en el SENA, trabajando en proyectos que van desde APIs robustas hasta aplicaciones de escritorio para la gestión empresarial.
 
-### Flynova
-Descripción: Sitio web orientado a una aerolínea con diseño responsivo y enfoque en experiencia de usuario.
-Tecnologías: HTML, CSS
+</p>
 
-## 🌐 Redes Sociales:
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edier-0)
+Para mí, programar es el arte de transformar problemas complejos en soluciones eficientes y fáciles de mantener. Siempre estoy en busca de nuevos retos que me permitan crecer profesionalmente y aportar valor a través del código 🚀.
 
-## 📊 Estadísticas de GitHub:
+</p>
 
-<!-- GitHub Stats (puedes añadir los tuyos aquí) -->
-<!-- Ejemplo: -->
-<!-- ![Edier's GitHub stats](https://github-readme-stats.vercel.app/api?username=edier-0&show_icons=true&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edier-0&layout=compact&theme=radical) -->
+# 🌐 Redes sociales:
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edier-0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edierrobles6@gmail.com)
+
+</div>
+
+# 💻 Tecnologías :
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+# 📊 Estadísticas de GitHub:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edier-0&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edier-0&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=edier-0&theme=radical&hide_border=true)
+
+</div>
