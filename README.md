@@ -56,7 +56,6 @@ Para mí, programar es el arte de transformar problemas complejos en soluciones 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -64,9 +63,9 @@ Para mí, programar es el arte de transformar problemas complejos en soluciones 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edier-0&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=edier-0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edier-0&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=edier-0&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=edier-0&theme=radical&hide_border=true)
 
